@@ -1,11 +1,12 @@
-#+TITLE: Breves anotações a dois acórdãos recentes em matéria de divórcio transnacional
+#+TITLE: Breves anotações a três acórdãos recentes em matéria de divórcio transnacional
 #+AUTHOR: João Gomes de Almeida
+#+cite_export: csl chicago.csl
 
 * Introdução
 
 No dia 13 de dezembro de 2021 tive o prazer e a honra de colaborar com o Centro de Estudos Judiciários na ação de formação contínua sobre o Direito Internacional da Família. No âmbito desta colaboração abordei o tema /"Divórcio e a Regulação do Exercício das Responsabilidades Parentais em Contexto Transfronteiriço"/.
 
-Pareceu-me, assim, interessante, no contexto deste /ebook/ do Centro de Estudos Judiciários complementar a comunicação proferida com duas breves anotações a dois acórdãos recentes (e, a meu ver, bastante relevantes) em matéria de divórcio transnacional. O primeiro é o Acórdão do Tribunal de Justiça da União da Europeia de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]]. Atendendo à data em que foi proferido, foi-me ainda possível fazer uma brevíssima menção a este Acórdão na ação de formação, que agora tenho de ensejo de desenvolver. O segundo é o Acórdão da /Cour de cassation/ francesa, de 26 de janeiro de 2022, Pourvoi n° 20-21.542, [[https://www.courdecassation.fr/decision/61f0f2367743e3330ccf0756?judilibre_chambre%5B%5D=civ1&search_api_fulltext=&expression_exacte=&date_du=2022-01-26&date_au=2022-01-26&sort=&items_per_page=&op=Filtrer&page=4&previousdecisionpage=4&previousdecisionindex=6&nextdecisionpage=4&nextdecisionindex=8][ECLI:FR:CCASS:2022:C100078]]. Este recentíssimo Acórdão suscita uma interessante questão quanto ao exercício da autonomia privada na determinação da lei reguladora do divórcio.
+Pareceu-me, assim, interessante, no contexto deste /ebook/ do Centro de Estudos Judiciários complementar a comunicação proferida com breves anotações a três acórdãos recentes (e, a meu ver, bastante relevantes) em matéria de divórcio transnacional. O primeiro é o Acórdão do Tribunal de Justiça da União da Europeia (TJ) de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]]. Atendendo à data em que foi proferido, foi-me ainda possível fazer uma brevíssima menção a este Acórdão na ação de formação, que agora tenho de ensejo de desenvolver. O segundo é o Acórdão da /Cour de cassation/ francesa, de 26 de janeiro de 2022, Pourvoi n° 20-21.542, [[https://www.courdecassation.fr/decision/61f0f2367743e3330ccf0756?judilibre_chambre%5B%5D=civ1&search_api_fulltext=&expression_exacte=&date_du=2022-01-26&date_au=2022-01-26&sort=&items_per_page=&op=Filtrer&page=4&previousdecisionpage=4&previousdecisionindex=6&nextdecisionpage=4&nextdecisionindex=8][ECLI:FR:CCASS:2022:C100078]]. Este recentíssimo Acórdão suscita uma interessante questão quanto ao exercício da autonomia privada na determinação da lei reguladora do divórcio. O terceiro é o Acórdão do TJ de 10 de fevereiro de 2022, /OE contra VY/, C-522/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-522%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=776477][EU:C:2022:87]], em que se analisa a relevância da nacionalidade à luz do princípio da não discriminação em razão da nacionalidade.
 
 Espero que as breves anotações que se seguem sejam um complemento e contributo interessante para todos quantos estudam estas problemáticas.
 
@@ -24,3 +25,15 @@ Espero que as breves anotações que se seguem sejam um complemento e contributo
 ** A resposta da /Cour de cassation/
 ** Análise
 ** Conclusões
+
+* O o Acórdão do TJ de 10 de fevereiro de 2022, /OE contra VY/, C-522/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-522%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=776477][EU:C:2022:87]]
+** Os factos do caso
+** A questão prejudicial
+** A resposta do Tribunal de Justiça da União Europeia
+** Análise
+** Conclusões
+
+Aqui digo uma coisa muito interessante[cite: Cf., por exemplo, @almeida2017 p. 322 e ess.].
+
+E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; @almeida2017 p. 54.].
+
