@@ -14,7 +14,7 @@ Espero que as breves anotações que se seguem sejam um complemento e contributo
 
 ** Os factos do caso
 
-IB, nacional francês, casou com FA, nacional irlandesa, em 1994[fn:2]. Fixaram domicílio conjugal na Irlanda, em 1999[fn:3]. IB alegou, no processo judicial de divórcio por si intentado, que exerce desde 2010 a sua atividade profissional em França e de forma estável e permanente desde maio de 2017. Mais alegou que se instalou num imóvel pertencente ao seu país, tem uma vida social em França e foi a recusa de FA em residir em França, apesar permanecer regularmente no citado imóvel e na casa de férias adquirida em 2017, que os levou a ter vidas separadas[fn:4].
+IB, nacional francês, casou com FA, nacional irlandesa, em 1994[fn:2]. Fixaram domicílio conjugal na Irlanda, em 1999[fn:3]. IB alegou, no processo judicial de divórcio por si intentado, que exerce desde 2010 a sua atividade profissional em França e de forma estável e permanente desde maio de 2017. Mais alegou que se instalou num imóvel pertencente ao seu pai, tem uma vida social em França e foi a recusa de FA em residir em França, apesar permanecer regularmente no citado imóvel e na casa de férias adquirida em 2017, que os levou a ter vidas separadas[fn:4].
 
 O órgão jurisdicional de reenvio considerou que IB tinha duas residências: uma familiar, na Irlanda, e uma profissional, na França. No processo judicial de divórcio existem numerosos elementos que caracterizam a ligação pessoal e familiar de IB à Irlanda, para onde se deslocava todos os fins de semana a fim de se juntar à mulher e aos filhos, mas também uma ligação profissional a França, para onde se deslocava todas as semanas, para trabalhar[fn:5].
 
@@ -27,6 +27,21 @@ Atendendo aos dois vínculos de residência de IB, o órgão jurisdicional de re
 #+end_quote
 
 ** A resposta do Tribunal de Justiça da União Europeia
+
+O TJ começa por sintetizar a questão colocada pelo órgão jurisdicional de reenvio: um cônjuge que divide a sua vida entre dois Estados-Membros pode ter a sua residência habitual nesses dois Estados-Membros, de modo que os tribunais destes últimos podem ser competentes para decidir do pedido de dissolução do vínculo matrimonial?[fn:7]
+
+Assinala, depois, que o conceito de residência habitual /não/ é definido no Regulamento Bruxelas II /bis/[fn:8], devendo ser interpretado autonomamente, tendo em conta o contexto das disposições que o mencionam e os objetivos do referido regulamento[fn:9].
+
+Observando as disposições do Regulamento Bruxelas II /bis/, verifica que nenhuma emprega o conceito na forma plural, destacando, no âmbito das questões suscitadas por ordenamentos jurídicos complexos, que a referência à residência habitual diz respeito à residência habitual numa unidade territorial[fn:10].
+
+Releva, depois, a sua jurisprudência sobre o conceito de residência habitual (do menor), na qual se acentua a residência habitual como centro permanente onde se situam os interesses da pessoa. O elemento histórico depõe no sentido de o conceito ter sido adotado no Regulamento Bruxelas II /bis/ atendendo à interpretação do TJ, pois tal é assinalado no Relatório Explicativo da Convenção de Bruxelas II, que esteve na génese do Regulamento Bruxelas II /bis/[fn:12]. Conclui que a ideia de centro de interesses não aponta no sentido de o conceito residência habitual poder suscitar problemas de conteúdo múltiplo, isto é, de permitir que, em simultâneo, uma pessoa tenha mais do que uma residência habitual[fn:11].
+
+Esta conclusão é, no entender do TJ, corroborada pelos objetivos prosseguidos com as normas atribuitivas de competência internacional em matéria de divórcio, separação judicial e anulação do casamento previstas no artigo 3.º, n.º 1, alínea /a)/, que consiste em assegurar um equilíbrio entre a mobilidade das pessoas no interior da União Europeia e a segurança jurídica[fn:13]. O TJ considera que admitir a possibilidade de um cônjuge ter mais de uma residência habitual em simultâneo acarretaria o risco de a a competência internacional determinada, em última análise, não pelo critério da «residência habitual», mas por um critério baseado na simples residência de um ou de outro dos cônjuges, o que infringiria o Regulamento Bruxelas II /bis/[fn:14]. O risco à previsibilidade jurídica seria acrescido por outros regulamentos atribuírem competências noutras matérias, como obrigações alimentares ou regimes matrimoniais, ao tribunal internacionalmente competente para julgar a ação de divórcio, separação judicial ou anulação do casamento[fn:15].
+
+Considerou que a sua anterior jurisprudência em matéria de plurinacionalidade comum dos cônjuges (Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, [[http://curia.europa.eu/juris/liste.jsf?language=pt&jur=C,T,F&num=C-168/08&td=ALL][EU:C:2009:474]]) não deponha em sentido contrário, pois a conclusão de que o conceito de nacionalidade consagrado no Regulamento Bruxelas II /bis/ não se encontra limitado à /nacionalidade efetiva/ não é relevante para a interpretação do conceito de residência habitual consagrado no artigo 3.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /bis/[fn:16].
+
+Conclui, com estes fundamentos, que embora não esteja excluído que um cônjuge possa dispor simultaneamente de várias residências, apenas pode ter, num determinado momento, uma única residência habitual, na aceção do artigo 3.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /bis/[fn:17].
+
 ** Análise
 ** Conclusões
 
@@ -50,6 +65,29 @@ Aqui digo uma coisa muito interessante[cite: Cf., por exemplo, @almeida2017 p. 3
 E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; @almeida2017 p. 54.].
 
 * Footnotes
+
+[fn:17] Considerando n.º 51.
+
+[fn:16] Considerandos n.º 49 e 50.
+
+[fn:15] Considerando n.º 48.
+
+[fn:14] Considerando n.º 46.
+
+[fn:13] Considerando n.º 44.
+
+[fn:12] Considerando n.º 42.
+
+[fn:11] Considerandos n.º 41 e 43.
+
+[fn:10] Considerando n.º 40.
+
+[fn:9] Considerando n.º 39.
+
+[fn:8] Considerando n.º 38.
+
+[fn:7] Considerando n.º 30.
+
 [fn:6] Considerando n.º 23.
 
 [fn:5] Considerandos n.ºs 18 e 19.
