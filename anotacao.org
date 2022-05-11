@@ -38,9 +38,13 @@ Releva, depois, a sua jurisprudência sobre o conceito de residência habitual (
 
 Esta conclusão é, no entender do TJ, corroborada pelos objetivos prosseguidos com as normas atribuitivas de competência internacional em matéria de divórcio, separação judicial e anulação do casamento previstas no artigo 3.º, n.º 1, alínea /a)/, que consiste em assegurar um equilíbrio entre a mobilidade das pessoas no interior da União Europeia e a segurança jurídica[fn:13]. O TJ considera que admitir a possibilidade de um cônjuge ter mais de uma residência habitual em simultâneo acarretaria o risco de a a competência internacional determinada, em última análise, não pelo critério da «residência habitual», mas por um critério baseado na simples residência de um ou de outro dos cônjuges, o que infringiria o Regulamento Bruxelas II /bis/[fn:14]. O risco à previsibilidade jurídica seria acrescido por outros regulamentos atribuírem competências noutras matérias, como obrigações alimentares ou regimes matrimoniais, ao tribunal internacionalmente competente para julgar a ação de divórcio, separação judicial ou anulação do casamento[fn:15].
 
-Considerou que a sua anterior jurisprudência em matéria de plurinacionalidade comum dos cônjuges (Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, [[http://curia.europa.eu/juris/liste.jsf?language=pt&jur=C,T,F&num=C-168/08&td=ALL][EU:C:2009:474]]) não deponha em sentido contrário, pois a conclusão de que o conceito de nacionalidade consagrado no Regulamento Bruxelas II /bis/ não se encontra limitado à /nacionalidade efetiva/ não é relevante para a interpretação do conceito de residência habitual consagrado no artigo 3.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /bis/[fn:16].
+Considerou que a sua anterior jurisprudência em matéria de plurinacionalidade comum dos cônjuges (Acórdão de 16 de julho de 2009, /Hadadi/, C-168/08, [[http://curia.europa.eu/juris/liste.jsf?language=pt&jur=C,T,F&num=C-168/08&td=ALL][EU:C:2009:474]]) não aponta em sentido contrário, pois a conclusão de que o conceito de nacionalidade consagrado no Regulamento Bruxelas II /bis/ não se encontra limitado à /nacionalidade efetiva/ não é relevante para a interpretação do conceito de residência habitual consagrado no artigo 3.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /bis/[fn:16].
 
 Conclui, com estes fundamentos, que embora não esteja excluído que um cônjuge possa dispor simultaneamente de várias residências, apenas pode ter, num determinado momento, uma única residência habitual, na aceção do artigo 3.º, n.º 1, alínea /a)/, do Regulamento Bruxelas II /bis/[fn:17].
+
+De seguida, o TJ efetua algumas considerações sobre o conceito autónomo de residência habitual. Seguindo a sua anterior jurisprudência, assinala que o conceito reflete essencialmente uma questão de facto, devendo os tribunais atender a todas as circunstâncias de facto específicas do caso concreto[fn:18]. Após recordar a sua anterior jurisprudência em matéria de residência habitual de crianças, conclui que as circunstâncias específicas que permitem determinar a residência habitual de crianças não são idênticas em todos os aspectos às que permitem determinar a residência habitual dos cônjuges[fn:19]. Assim, um cônjuge pode, nomeadamente em casos de crise conjugal, abandonar a antiga residência habitual e fixar nova residência habitual noutro Estado-Membro e, ainda assim, manter alguns vínculos sociais e familiares no Estado-Membro da anterior residência habitual[fn:20]. Ao contrário das crianças, em especial as de tenra idade, o ambiente em que se encontra integrado um adulto é de natureza mais variada, sendo constituído por um espetro de atividades sensivelmente mais vasto e de interesses, designadamente profissionais, socioculturais, patrimoniais e de ordem privada e familiar, diversificados e, por isso, conclui o TJ que não é possível exigir que todos esses interesses se concentrem num único Estado-Membro[fn:21].
+
+O TJ recorda, por fim, que a interpretação do conceito autónomo de residência habitual se caracteriza, em princípio, por dois elementos, a saber, por um lado, a vontade do interessado de fixar o centro habitual dos seus interesses num determinado lugar, e, por outro, uma presença com um grau suficiente de estabilidade no território do Estado-Membro em causa[fn:24]. A esta luz, e para que seja possível recorrer aos critérios de competência previstos no artigo 3.º, n.º 1, al. /a)/, quinto e sexto travessões, do Regulamento Bruxelas II /bis/, o cônjuge requerente deve ter transferido a sua residência habitual para o território de um Estado-Membro diferente do da anterior residência habitual comum e, portanto, por um lado, ter manifestado a vontade de estabelecer o centro habitual dos seus interesses nesse outro Estado-Membro, e, por outro, ter demonstrado que a sua presença no território deste Estado-Membro revela um grau suficiente de estabilidade[fn:22]. No caso concreto, o TJ entendeu indicar que os elementos constantes dos autos parecem, /a priori/, permitir demontrar a transferência de residência, o carácter estável da mesma e, pelo menos, a integração do cônjuge requerente no ambiente social e cultural do Estado-Membro da nova residência[fn:23]; não deixou, porém, de assinalar que compete ao órgão jurisdicional de reenvio a concreta tarefa de verificar se houve ou não, no caso concreto, mudança da residência habitual do cônjuge requerente[fn:25].
 
 ** Análise
 ** Conclusões
@@ -65,6 +69,21 @@ Aqui digo uma coisa muito interessante[cite: Cf., por exemplo, @almeida2017 p. 3
 E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; @almeida2017 p. 54.].
 
 * Footnotes
+[fn:25] Considerando n.º 61.
+
+[fn:24] Considerando n.º 57.
+
+[fn:23] Considerandos n.º 59 e 60
+
+[fn:22] Considerando n.º 58.
+
+[fn:21] Considerando nº. 56.
+
+[fn:20] Considerando n.º 55.
+
+[fn:19] Considerandos n.ºs 53 e 54.
+
+[fn:18] Considerando n.º 52.
 
 [fn:17] Considerando n.º 51.
 
