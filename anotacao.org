@@ -50,7 +50,13 @@ O TJ recorda, por fim, que a interpretação do conceito autónomo de residênci
 
 A questão essencial que foi colocada ao TJ foi a de saber se o elemento de conexão residência habitual, tal como consagrado no Regulamento Bruxelas II /bis/, pode ou não suscitar questões de conteúdo múltiplo. Dito de outra forma, se um ou ambos os côpnjuges podem, num determinado momento, ter mais de uma residência habitual.
 
-A questão vinha sendo discutida, em geral, na doutrina[cite: Cf., em sentido afirmativo,; @pinheiro2014 p. 513; @illmer2011 p. 97; e @cavers1972 p. 483]. A nível supra-estadual, a Conferência da Haia foi a promotora da residência habitual como elemento de conexão[cite: Cf. @winter1969 pp. 423 e ss.; e @overbeck1992 pp. 54-55.]. O conceito foi adotado em várias convenções, nomeadamente na área de menores, obrigações alimentares, sucessões e proteção de adultos. A Conferência da Haia também utiliza o conceito de residência habitual sem o definir. A questão é, por vezes, abordada nos relatórios explicativos, afirmando-se que a residência habitual é um conceito bem estabelecido na Conferência da Haia e essencialmente de facto[cite: Cf., por exemplo; @perez-vera1980 p. 445, ponto 66; @steiger1961 p. 13; e @batiffol1961 p. 164.]. A questão de saber se a residência habitual era ou não um conceito suscetível de conteúdo múltiplo foi menos vezes abordada e, quando foi, mereceu uma resposta negativa *INSERIR WATERS 1990*.
+A questão vinha sendo discutida, em geral, na doutrina[cite: Cf., em sentido afirmativo,; @pinheiro2014 p. 513; @illmer2011 p. 97; e @cavers1972 p. 483]. A nível supra-estadual, a Conferência da Haia foi a promotora da residência habitual como elemento de conexão[cite: Cf. @winter1969 pp. 423 e ss.; e @overbeck1992 pp. 54-55.]. O conceito foi adotado em várias convenções, nomeadamente na área de menores, obrigações alimentares, sucessões e proteção de adultos. A Conferência da Haia também utiliza o conceito de residência habitual sem o definir. A questão é, por vezes, abordada nos relatórios explicativos, afirmando-se que a residência habitual é um conceito bem estabelecido na Conferência da Haia e essencialmente de facto[cite: Cf., por exemplo; @perez-vera1980 p. 445, ponto 66; @steiger1961 p. 13; e @batiffol1961 p. 164.]. A questão de saber se a residência habitual era ou não um conceito suscetível de conteúdo múltiplo foi menos vezes abordada e, quando foi, mereceu uma resposta negativa[cite:@waters1990 p. 549, ponto 51.].
+
+No Acórdão em anotação, o TJ analisa a questão, pela primeira vez, em sede do Regulamento Bruxelas II /bis/. O TJ já se tinha debruçado sobre a questão, em sede do Regulamento sobre sucessões[fn:26]. No Acórdão de 16 de julho de 2020, /E. E./, C-80/19, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-80%252F19&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=8646947][EU:C:2020:569]], considerou que a interpretação de que o /de cujus/ poderia ter, no momento do falecimento, mais do que uma residência habitual conduziria à fragmentação da sucessão e seria, por isso, uma interpretação incompatível com os objetivos do Regulamento sobre sucessões[fn:27].
+
+Este argumento não foi utilizado pelo TJ porque o mesmo não é, pensa-se, transponível para a análise da questão em sede do Regulamento Bruxelas II /bis/. O problema da fragmentação da sucessão coloca-se, a nosso ver, exclusivamente em sede de determinação da lei aplicável e, ainda assim, apenas se não se estabelecerem critérios de prevalência[fn:28]. Em sede competência internacional, não se verifica a mesma situação porque seriam competentes para decidir do conjunto da sucessão os tribunais de qualquer Estado-Membro em que o falecido tivesse as suas residências habituais. Assim, e por exemplo, se A., no momento em faleceu, tivesse simultaneamente residual habitual em Portugal e Franças, os tribunais portugueses e os tribunais franceses seriam, ambos, competentes para decidir do conjunto da sucessão de A., nos termos do artigo 4.º do Regulamento sobre sucessões. Poderia assim o autor da ação sucessória intentar a mesma junto ou dos tribunais portugueses ou dos tribunais franceses.
+
+
 
 ** Conclusões
 
@@ -74,6 +80,13 @@ Aqui digo uma coisa muito interessante[cite: Cf., por exemplo, @almeida2017 p. 3
 E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; @almeida2017 p. 54.].
 
 * Footnotes
+
+[fn:28] Estabelecido um critério de prevalência, por exemplo assente na conexão mais estreita, deixa de ser verificar uma fragmentação da sucessão. Apesar de o falecido ter mais de uma residência habitual em simultâneo, por aplicação do critério de prevalência seria aplicável apenas um Direito material (o do Estado da residência habitual prevalecente), respeitando-se assim o princípio da unidade da sucessão.
+
+[fn:27] Considerando n.º 41.
+
+[fn:26] Regulamento (UE) n.º 650/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo à competência, à lei aplicável, ao reconhecimento e execução das decisões, e à aceitação e execução dos atos autênticos em matéria de sucessões e à criação de um Certificado Sucessório Europeu, publicado no JO L 201, de 27 de dezembro de 2012.
+
 [fn:25] Considerando n.º 61.
 
 [fn:24] Considerando n.º 57.
@@ -122,4 +135,4 @@ E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; 
 
 [fn:2] Considerando n.º 13.
 
-[fn:1] Os considerandos sem indicação de fonte pertencem ao Acórdão que se comenta.
+[fn:1] Os considerandos sem indicação de fonte pertencem ao Acórdão que se comenta, exceto se o contrário resultar inequivocamente do contexto.
