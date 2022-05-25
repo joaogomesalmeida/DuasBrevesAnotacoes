@@ -83,6 +83,15 @@ As indicações que o TJ efetua, a título de /obiter dictum/, nos considerandos
 * O Acórdão da /Cour de cassation/ francesa, de 26 de janeiro de 2022, Pourvoi n° 20-21.542, [[https://www.courdecassation.fr/decision/61f0f2367743e3330ccf0756?judilibre_chambre%5B%5D=civ1&search_api_fulltext=&expression_exacte=&date_du=2022-01-26&date_au=2022-01-26&sort=&items_per_page=&op=Filtrer&page=4&previousdecisionpage=4&previousdecisionindex=6&nextdecisionpage=4&nextdecisionindex=8][ECLI:FR:CCASS:2022:C100078]]
 
 ** Os factos do caso
+
+E., nacional russo e mexicano, casou, sem convenção antenupcial, com M., nacional russa, em 1996. Fixaram a sua primeira residência habitual comum na Rússia.
+
+No dia 22 de fevereiro de 2016, por ato autêntico, adotaram o regime francês de separação de bens relativamente aos seus bens situados em França e escolheram a lei francesa como lei reguladora do divórcio.
+
+No dia 11 de setembro de 2017, a M. intentou, junto dos tribunais franceses, ação de divórcio contra E.
+
+Embora não resulte de forma clara do Acórdão, aparentemente a M. abandonou a residência habitual comum Rússia e fixou a sua nova residência habitual em França[fn:33]. Não há, no Acórdão, elementos que nos permitam determinar se essa (eventual) mudança da residência habitual para França ocorreu /antes/ ou /a partir de/ 22 de fevereiro de 2016, data em que os cônjuges escolheram a lei francesa como lei reguladora do divórcio. 
+
 ** A questão relevante
 ** A resposta da /Cour de cassation/
 ** Análise
@@ -100,6 +109,7 @@ Aqui digo uma coisa muito interessante[cite: Cf., por exemplo, @almeida2017 p. 3
 E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; @almeida2017 p. 54.].
 
 * Footnotes
+[fn:33] Infere-se que tal sucedeu pois a indicação suprimida do domicílio de E. é acompanhada da menção de que "(Federátion de Russie)", enquanto a indicação suprimida do domicílio de M. não é acompanhada de qualquer indicação do Estado em que se situa, o permite presumir que se trata de um domicílio situado no Estado do foro (França).
 
 [fn:32] Já com um olhar para as circunstâncias do caso concreto que motivou a questão prejudicial.
 
