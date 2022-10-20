@@ -1,24 +1,18 @@
-#+TITLE: Breves anotações a três acórdãos recentes em matéria de divórcio transnacional
+#+TITLE: Uma ou múltipas residências habituais do(s) cônjuge(s): comentário ao Acórdão do Tribunal de Justiça da União da Europeia de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20
 #+AUTHOR: João Gomes de Almeida
 #+cite_export: csl chicago.csl
 
-* Introdução
+* TODO Introdução
 
-No dia 13 de dezembro de 2021 tive o prazer e a honra de colaborar com o Centro de Estudos Judiciários na ação de formação contínua sobre o Direito Internacional da Família. No âmbito desta colaboração abordei o tema /"O Divórcio e a Regulação do Exercício das Responsabilidades Parentais em Contexto Transfronteiriço"/.
+o contexto deste /ebook/ do Centro de Estudos Judiciários pareceu-me interessante complementar a comunicação proferida com breves anotações a três acórdãos recentes (e, a meu ver, bastante relevantes) em matéria de divórcio transnacional. O primeiro é o Acórdão do Tribunal de Justiça da União da Europeia (TJ) de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]][fn:1].
 
-No contexto deste /ebook/ do Centro de Estudos Judiciários pareceu-me interessante complementar a comunicação proferida com breves anotações a três acórdãos recentes (e, a meu ver, bastante relevantes) em matéria de divórcio transnacional. O primeiro é o Acórdão do Tribunal de Justiça da União da Europeia (TJ) de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]]. Atendendo à data em que foi proferido, foi-me ainda possível fazer uma brevíssima menção a este Acórdão na ação de formação, que agora tenho o ensejo de desenvolver. O segundo é o Acórdão da /Cour de cassation/ francesa, de 26 de janeiro de 2022, Pourvoi n° 20-21.542, [[https://www.courdecassation.fr/decision/61f0f2367743e3330ccf0756?judilibre_chambre%5B%5D=civ1&search_api_fulltext=&expression_exacte=&date_du=2022-01-26&date_au=2022-01-26&sort=&items_per_page=&op=Filtrer&page=4&previousdecisionpage=4&previousdecisionindex=6&nextdecisionpage=4&nextdecisionindex=8][ECLI:FR:CCASS:2022:C100078]]. Este recentíssimo Acórdão suscita uma interessante questão quanto ao exercício da autonomia privada na determinação da lei reguladora do divórcio. O terceiro é o Acórdão do TJ de 10 de fevereiro de 2022, /OE contra VY/, C-522/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-522%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=776477][EU:C:2022:87]], em que se analisa a relevância da nacionalidade à luz do princípio da não discriminação em razão da nacionalidade.
-
-Espero que as breves anotações que se seguem sejam um complemento e contributo interessante para todos quantos estudam estas problemáticas.
-
-* O Acórdão do Tribunal de Justiça da União da Europeia de 25 de novembro de 2021, /IB contra FA/, proc. C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]][fn:1]
-
-** Os factos do caso
+* Os factos do caso
 
 IB, nacional francês, casou com FA, nacional irlandesa, em 1994[fn:2]. Fixaram domicílio conjugal na Irlanda, em 1999[fn:3]. IB alegou, no processo judicial de divórcio por si intentado, que exerce desde 2010 a sua atividade profissional em França e de forma estável e permanente desde maio de 2017. Mais alegou que se instalou num imóvel pertencente ao seu pai, tem uma vida social em França e foi a recusa de FA em residir em França, apesar permanecer regularmente no citado imóvel e na casa de férias adquirida em 2017, que os levou a ter vidas separadas[fn:4].
 
 O órgão jurisdicional de reenvio considerou que IB tinha duas residências: uma familiar, na Irlanda, e uma profissional, na França. No processo judicial de divórcio existem numerosos elementos que caracterizam a ligação pessoal e familiar de IB à Irlanda, para onde se deslocava todos os fins de semana a fim de se juntar à mulher e aos filhos, mas também uma ligação profissional a França, para onde se deslocava todas as semanas, para trabalhar[fn:5].
 
-** A questão prejudicial
+* A questão prejudicial
 
 Atendendo aos dois vínculos de residência de IB, o órgão jurisdicional de reenvio decidiu colocar a seguinte questão prejudicial:
 
@@ -26,7 +20,7 @@ Atendendo aos dois vínculos de residência de IB, o órgão jurisdicional de re
 «Quando […] resulte das circunstâncias de facto que um dos cônjuges divide a sua vida entre dois Estados-Membros, pode considerar-se, na aceção do artigo 3.º do Regulamento n.º 2201/2003 e para efeitos da sua aplicação, que esse cônjuge tem a sua residência habitual em dois Estados-Membros, de modo que, se os requisitos estabelecidos nesse artigo estiverem preenchidos relativamente a dois Estados-Membros, os tribunais desses dois Estados são igualmente competentes para decidir sobre o divórcio?»[fn:6]
 #+end_quote
 
-** A resposta do Tribunal de Justiça da União Europeia
+* A resposta do Tribunal de Justiça da União Europeia
 
 O TJ começa por sintetizar a questão colocada pelo órgão jurisdicional de reenvio: um cônjuge que divide a sua vida entre dois Estados-Membros pode ter a sua residência habitual nesses dois Estados-Membros, de modo que os tribunais destes últimos podem ser competentes para decidir do pedido de dissolução do vínculo matrimonial?[fn:7]
 
@@ -46,7 +40,7 @@ De seguida, o TJ efetua algumas considerações sobre o conceito autónomo de re
 
 O TJ recorda, por fim, que a interpretação do conceito autónomo de residência habitual se caracteriza, em princípio, por dois elementos: por um lado, a vontade do interessado de fixar o centro habitual dos seus interesses num determinado lugar, e, por outro, uma presença com um grau suficiente de estabilidade no território do Estado-Membro em causa[fn:24]. A esta luz, e para que seja possível recorrer aos critérios de competência previstos no artigo 3.º, n.º 1, al. /a)/, quinto e sexto travessões, do Regulamento Bruxelas II /bis/, o cônjuge requerente deve ter transferido a sua residência habitual para o território de um Estado-Membro diferente do da anterior residência habitual comum e, portanto, por um lado, ter manifestado a vontade de estabelecer o centro habitual dos seus interesses nesse outro Estado-Membro, e, por outro, ter demonstrado que a sua presença no território deste Estado-Membro revela um grau suficiente de estabilidade[fn:22]. No caso concreto, o TJ entendeu indicar que os elementos constantes dos autos parecem, /a priori/, permitir demontrar a transferência de residência, o carácter estável da mesma e, pelo menos, a integração do cônjuge requerente no ambiente social e cultural do Estado-Membro da nova residência[fn:23]; não deixou, porém, de assinalar que compete ao órgão jurisdicional de reenvio a concreta tarefa de verificar se houve ou não, no caso concreto, mudança da residência habitual do cônjuge requerente[fn:25].
 
-** Análise
+* Análise
 
 A questão essencial que foi colocada ao TJ foi a de saber se o elemento de conexão residência habitual, tal como consagrado no Regulamento Bruxelas II /bis/, pode ou não suscitar questões de conteúdo múltiplo. Dito de outra forma, se um ou ambos os côpnjuges podem, num determinado momento, ter mais de uma residência habitual.
 
@@ -72,41 +66,13 @@ No caso concreto, resulta do processo judicial de divórcio que existem numeroso
 
 Concorda-se com este entendimento do TJ. Embora, noutras situações e formulando juízos de carácter geral e abstrato, se possa sustentar que as ligações e ambiente de cariz familiar ou pessoal são, em regra, mais relevantes em sede do Regulamento Bruxelas II /bis/ do que as ligações e ambiente de cariz profissional, a verdade é que a análise deve ser efetuada caso a caso. E no caso do abandono da residência conjugal, principalmente quando os filhos permanecem, pode haver (e muitas vezes haverá) uma vontade de mudar a residência habitual por parte do cônjuge que abandona o lar conjugal e, simultaneamente, uma manutenção dos contactos e integração familiar com a anterior residência habitual, pois essa será uma das únicas formas de ele manter um contacto pessoal e físico com os filhos. A aceitar-se que pode haver apenas uma residência habitual, concorda-se que, nestes casos, deve prevalecer a vontade do cônjuge que abandona o lar em mudar de residência habitual[cite:Contra, cf.; @martin2022 p. 439].
 
-** Conclusões
+* Conclusões
 
 Trata-se de um acórdão particularmente relevante por ser o primeiro em que o TJ aborda o conceito de residência habitual dos cônjuges.
 
 Suscita-nos reservas a solução perfilhada pelo TJ de que o cônjuge só pode ter uma residência habitual num dado momento. Se há matéria em que poderia ter sido dada relevância aos casos (excecionais) em que um cônjuge demonstra ter mais do que um centro de interesses, ela é, certamente, a competência internacional em matéria de ações matrimoniais, em que preside o princípio do /favor divortii/ ou, de uma maneira mais geral, o princípio do favorecimento da dissolução ou enfraquecimento do vínculo matrimonial. Ainda assim, assinala-se que a posição do TJ tem a virtualidade de assegurar uma solução uniforme com a que tinha sido já por si adotada em sede do Regulamento sobre sucessões.
 
 As indicações que o TJ efetua, a título de /obiter dictum/, nos considerandos n.ºs 59 e 60 parecem-nos particularmente relevantes pois demonstram que, pelo menos nos casos de abandono da residência conjugal comum e para efeitos do Regulamento Bruxelas II /bis/, uma manifestação de vontade de mudar de residência habitual e uma estabilidade e integração na ordem jurídica de outro Estado-Membros, mesmo que apenas de cariz profissional (recorda-se que todos os fins-de-semana IB regressava à Irlanda para estar com a mulher e os filhos), é suficiente para efetuar uma transferência do centro de interesses, isto é, uma mudança da residência habitual. Destaca-se assim, novamente, a importância do tribunal efetuar uma avaliação com base em todas as circunstâncias de facto específicas do caso concreto para efeitos de determinar a residência habitual dos cônjuges.
-
-* O Acórdão da /Cour de cassation/ francesa, de 26 de janeiro de 2022, Pourvoi n° 20-21.542, [[https://www.courdecassation.fr/decision/61f0f2367743e3330ccf0756?judilibre_chambre%5B%5D=civ1&search_api_fulltext=&expression_exacte=&date_du=2022-01-26&date_au=2022-01-26&sort=&items_per_page=&op=Filtrer&page=4&previousdecisionpage=4&previousdecisionindex=6&nextdecisionpage=4&nextdecisionindex=8][ECLI:FR:CCASS:2022:C100078]]
-
-** Os factos do caso
-
-E., nacional russo e mexicano, casou, sem convenção antenupcial, com M., nacional russa, em 1996. Fixaram a sua primeira residência habitual comum na Rússia.
-
-No dia 22 de fevereiro de 2016, por ato autêntico, adotaram o regime francês de separação de bens relativamente aos seus bens situados em França e escolheram a lei francesa como lei reguladora do divórcio.
-
-No dia 11 de setembro de 2017, a M. intentou, junto dos tribunais franceses, ação de divórcio contra E.
-
-Embora não resulte de forma clara do Acórdão, aparentemente a M. abandonou a residência habitual comum Rússia e fixou a sua nova residência habitual em França[fn:33]. Não há, no Acórdão, elementos que nos permitam determinar se essa (eventual) mudança da residência habitual para França ocorreu /antes/ ou /a partir de/ 22 de fevereiro de 2016, data em que os cônjuges escolheram a lei francesa como lei reguladora do divórcio. 
-
-** A questão relevante
-** A resposta da /Cour de cassation/
-** Análise
-** Conclusões
-
-* O o Acórdão do TJ de 10 de fevereiro de 2022, /OE contra VY/, C-522/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-522%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=776477][EU:C:2022:87]]
-** Os factos do caso
-** A questão prejudicial
-** A resposta do Tribunal de Justiça da União Europeia
-** Análise
-** Conclusões
-
-Aqui digo uma coisa muito interessante[cite: Cf., por exemplo, @almeida2017 p. 322 e ss.].
-
-E isto também é interessante[cite: Ver, neste sentido,; @pinheiro2019b p. 12; @almeida2017 p. 54.].
 
 * Footnotes
 [fn:33] Infere-se que tal sucedeu pois a indicação suprimida do domicílio de E. é acompanhada da menção de que "(Federátion de Russie)", enquanto a indicação suprimida do domicílio de M. não é acompanhada de qualquer indicação do Estado em que se situa, o permite presumir que se trata de um domicílio situado no Estado do foro (França).
