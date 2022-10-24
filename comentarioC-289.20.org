@@ -2,10 +2,6 @@
 #+AUTHOR: João Gomes de Almeida
 #+cite_export: csl chicago.csl
 
-* TODO Introdução
-
-o contexto deste /ebook/ do Centro de Estudos Judiciários pareceu-me interessante complementar a comunicação proferida com breves anotações a três acórdãos recentes (e, a meu ver, bastante relevantes) em matéria de divórcio transnacional. O primeiro é o Acórdão do Tribunal de Justiça da União da Europeia (TJ) de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]][fn:1].
-
 * Os factos do caso
 
 IB, nacional francês, casou com FA, nacional irlandesa, em 1994[fn:2]. Fixaram domicílio conjugal na Irlanda, em 1999[fn:3]. IB alegou, no processo judicial de divórcio por si intentado, que exerce desde 2010 a sua atividade profissional em França e de forma estável e permanente desde maio de 2017. Mais alegou que se instalou num imóvel pertencente ao seu pai, tem uma vida social em França e foi a recusa de FA em residir em França, apesar permanecer regularmente no citado imóvel e na casa de férias adquirida em 2017, que os levou a ter vidas separadas[fn:4].
@@ -24,7 +20,7 @@ Atendendo aos dois vínculos de residência de IB, o órgão jurisdicional de re
 
 O TJ começa por sintetizar a questão colocada pelo órgão jurisdicional de reenvio: um cônjuge que divide a sua vida entre dois Estados-Membros pode ter a sua residência habitual nesses dois Estados-Membros, de modo que os tribunais destes últimos podem ser competentes para decidir do pedido de dissolução do vínculo matrimonial?[fn:7]
 
-Assinala, depois, que o conceito de residência habitual /não/ é definido no Regulamento Bruxelas II /bis/[fn:8], devendo ser interpretado autonomamente, tendo em conta o contexto das disposições que o mencionam e os objetivos do referido regulamento[fn:9].
+Assinala, depois, que o conceito de residência habitual /não/ é definido no Regulamento Bruxelas II /bis/[fn:8] [fn:8a], devendo ser interpretado autonomamente, tendo em conta o contexto das disposições que o mencionam e os objetivos do referido regulamento[fn:9].
 
 Observando as disposições do Regulamento Bruxelas II /bis/, verifica que nenhuma emprega o conceito na forma plural, destacando, no âmbito das questões suscitadas por ordenamentos jurídicos complexos, que a referência à residência habitual diz respeito à residência habitual numa unidade territorial[fn:10].
 
@@ -68,14 +64,16 @@ Concorda-se com este entendimento do TJ. Embora, noutras situações e formuland
 
 * Conclusões
 
-Trata-se de um acórdão particularmente relevante por ser o primeiro em que o TJ aborda o conceito de residência habitual dos cônjuges.
+Trata-se de um acórdão particularmente relevante por ser o primeiro em que o TJ aborda o conceito de residência habitual do(s) cônjuge(s).
 
 Suscita-nos reservas a solução perfilhada pelo TJ de que o cônjuge só pode ter uma residência habitual num dado momento. Se há matéria em que poderia ter sido dada relevância aos casos (excecionais) em que um cônjuge demonstra ter mais do que um centro de interesses, ela é, certamente, a competência internacional em matéria de ações matrimoniais, em que preside o princípio do /favor divortii/ ou, de uma maneira mais geral, o princípio do favorecimento da dissolução ou enfraquecimento do vínculo matrimonial. Ainda assim, assinala-se que a posição do TJ tem a virtualidade de assegurar uma solução uniforme com a que tinha sido já por si adotada em sede do Regulamento sobre sucessões.
 
 As indicações que o TJ efetua, a título de /obiter dictum/, nos considerandos n.ºs 59 e 60 parecem-nos particularmente relevantes pois demonstram que, pelo menos nos casos de abandono da residência conjugal comum e para efeitos do Regulamento Bruxelas II /bis/, uma manifestação de vontade de mudar de residência habitual e uma estabilidade e integração na ordem jurídica de outro Estado-Membros, mesmo que apenas de cariz profissional (recorda-se que todos os fins-de-semana IB regressava à Irlanda para estar com a mulher e os filhos), é suficiente para efetuar uma transferência do centro de interesses, isto é, uma mudança da residência habitual. Destaca-se assim, novamente, a importância do tribunal efetuar uma avaliação com base em todas as circunstâncias de facto específicas do caso concreto para efeitos de determinar a residência habitual dos cônjuges.
 
+O Regulamento Bruxelas II /bis/ foi reformulado e revogado pelo Regulamento Bruxelas II /ter/[fn:1], cujas regras são, no essencial, aplicáveis a partir de 1 de agosto de 2022. Ainda assim, tal não diminui a importância deste Acórdão, uma vez que as normas atribuitivas de competência internacional em materia matrimonial permanecem substancialmente inalteradas no Regulamento Bruxelas II /ter/. Por este motivo, a jurisprudência deste Acórdão é diretamente relevante para a interpretação e concretização da residência habitual do(s) cônjuge(s) no contexto do Regulamento Bruxelas II /ter/.
+
 * Footnotes
-[fn:33] Infere-se que tal sucedeu pois a indicação suprimida do domicílio de E. é acompanhada da menção de que "(Federátion de Russie)", enquanto a indicação suprimida do domicílio de M. não é acompanhada de qualquer indicação do Estado em que se situa, o permite presumir que se trata de um domicílio situado no Estado do foro (França).
+[fn:1] Regulamento (UE) 2019/1111 do Conselho, de 25 de junho de 2019, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e ao rapto internacional de crianças (reformulação), publicado no JO L 178 de 2 de julho de 2019.
 
 [fn:32] Já com um olhar para as circunstâncias do caso concreto que motivou a questão prejudicial.
 
@@ -125,7 +123,9 @@ As indicações que o TJ efetua, a título de /obiter dictum/, nos considerandos
 
 [fn:9] Considerando n.º 39.
 
-[fn:8] Considerando n.º 38.
+[fn:8] Regulamento (CE) n.º 2201/2003 do Conselho, de 27 de Novembro de 2003, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e que revoga o Regulamento (CE) n.º 1347/2000, publicado no JO L 388 de 23 de dezembro de 2003.
+
+[fn:8a] Considerando n.º 38.
 
 [fn:7] Considerando n.º 30.
 
@@ -137,6 +137,4 @@ As indicações que o TJ efetua, a título de /obiter dictum/, nos considerandos
 
 [fn:3] Considerando n.º 18.
 
-[fn:2] Considerando n.º 13.
-
-[fn:1] Os considerandos sem indicação de fonte pertencem ao Acórdão que se comenta, exceto se o contrário resultar inequivocamente do contexto.
+[fn:2] Considerando n.º 13 do Acórdão de 25 de novembro de 2021, /IB contra FA/, C-289/20, [[https://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-289%252F20&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=pt&avg=&cid=663452][EU:C:2021:955]]. Os considerandos subsequentes citados sem indicação de fonte pertencem ao Acórdão que se comenta, exceto se o contrário resultar inequivocamente do contexto.
